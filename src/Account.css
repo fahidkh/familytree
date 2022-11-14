@@ -1,0 +1,32 @@
+
+.account {
+    display: flex;
+    background-color: whiteF;
+    flex-direction: column;
+}
+
+.account__fields {
+    padding: 30px 30px;
+    display: grid;
+
+}
+
+.account__fields >  .MuiTextField-root {
+    margin-top: 40px;
+    width: "25ch"
+}
+
+.account__fields >  .MuiAutocomplete-root {
+    margin-top: 40px;
+    width: "25ch"
+}
+
+.famss {
+    margin-top: 40px;
+    justify-content: baseline;
+    display: flex;
+}
+
+.famss > .MuiButton-root {
+    margin-left: 20px;
+}

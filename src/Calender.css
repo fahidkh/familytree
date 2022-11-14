@@ -1,0 +1,7 @@
+.calender__input {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
